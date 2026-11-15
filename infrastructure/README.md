@@ -1,0 +1,1 @@
+# Infrastruktur\nManaged Hosting in EU-Region anstreben. PostGIS-Verfügbarkeit, Datenstandort, AV-Vertrag, Backup/Restore, Kosten und Exit-Strategie vor Anbieterwahl prüfen. Development, Staging und Production trennen; Secrets nicht committen.\n

@@ -1,0 +1,13 @@
+{
+  "name": "ak-kritische-geographie-atlas",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "pnpm --filter @ak-atlas/web dev",
+    "build": "pnpm --filter @ak-atlas/web build",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
