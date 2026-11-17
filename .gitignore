@@ -1,1 +1,8 @@
-node_modules\n.next\n.env\n.env.*\n!.env.example\ndist\ncoverage\n
+node_modules
+.next
+.env
+.env.*
+!.env.example
+dist
+coverage
+node_modules
